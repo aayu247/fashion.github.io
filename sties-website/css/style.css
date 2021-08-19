@@ -1,0 +1,45 @@
+		body{
+			background-image: url(images/background.jpg);
+		}
+		 li{
+		 	display:inline;
+		 }
+		 .navigation{
+		 	background: deeppink;
+		 	padding:5px;
+		
+		 }
+		 li a{
+		 	display:inline-block;
+		 	padding:7px;
+		 	text-decoration: none;
+		 	color: white;
+		 }
+		 a:hover{
+		 	background:white;
+		 	color: deeppink;
+		 }
+		 .head{
+		 	background: deeppink;
+		 	padding: 10px;
+		 }
+		 ul{
+		 	margin: 0;
+		 	width: auto;
+		 	display: block;
+    		list-style-type: disc;
+    		margin-block-start: 0;
+   			margin-block-end: 0;
+   			margin-inline-start: 0;
+    		margin-inline-end: 0;
+    		padding-inline-start: 0;
+		 }
+		 .navigation-bar ul {
+  			padding: 0px;
+  			margin: 0px;
+  			text-align: center;
+  			display:inline-block;
+  			vertical-align:top;
+		 }
+		 
+		 
